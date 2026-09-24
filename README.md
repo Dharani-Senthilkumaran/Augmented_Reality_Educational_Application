@@ -1,6 +1,6 @@
 # 🩺 AR Medical Educational Application 
 
-An **Augmented Reality (AR) Educational Application** developed to provide an interactive and immersive learning experience through **3D models and real-time visualization
+An **Augmented Reality (AR) Educational Application** developed to provide an interactive and immersive learning experience through 3D models and real-time visualization
 
 **Demo video link:** https://drive.google.com/file/d/1r5J8tzhg4xoTdt5fCcqvIokV55mCB4Br/view?usp=drive_link.
 
